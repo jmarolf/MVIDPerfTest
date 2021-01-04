@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30904.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVIDPerfTest", "MVIDPerfTest\MVIDPerfTest.csproj", "{5F02DD17-CFD5-482D-890F-B2ECF8826957}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "logestMVIDReadTime", "logestMVIDReadTime\logestMVIDReadTime.csproj", "{B89EBE09-7CF9-485B-AE03-5D5F4D9CBD7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F02DD17-CFD5-482D-890F-B2ECF8826957}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F02DD17-CFD5-482D-890F-B2ECF8826957}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F02DD17-CFD5-482D-890F-B2ECF8826957}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F02DD17-CFD5-482D-890F-B2ECF8826957}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B89EBE09-7CF9-485B-AE03-5D5F4D9CBD7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B89EBE09-7CF9-485B-AE03-5D5F4D9CBD7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B89EBE09-7CF9-485B-AE03-5D5F4D9CBD7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B89EBE09-7CF9-485B-AE03-5D5F4D9CBD7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5B2236D-31AE-4C84-8C6E-DE68C1085E16}
+	EndGlobalSection
+EndGlobal

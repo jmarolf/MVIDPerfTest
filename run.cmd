@@ -1,0 +1,1 @@
+ dotnet run --project MVIDPerfTest\MVIDPerfTest.csproj -c Release -- --job short --runtimes netcoreapp50 --filter *

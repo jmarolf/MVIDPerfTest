@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "logestMVIDReadTime": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\source\\dotnet\\roslyn"
+    }
+  }
+}
